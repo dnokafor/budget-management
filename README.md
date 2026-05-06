@@ -10,7 +10,7 @@ A modern, AI-powered budgeting and expense management app built with Next.js. Ef
 - **Visual Analytics:** Interactive charts and reports for clear financial overviews.
 - **Automated Reminders:** Email alerts and weekly summaries to keep you on track.
 - **Responsive UI:** Optimized for desktop, tablet, and mobile.
-
+ 
 ## 🤖 AI Integration
 
 - Supports OpenAI, Groq, xAI (Grok), Ollama, Hugging Face, and mock providers.
